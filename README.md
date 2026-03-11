@@ -1,1 +1,3 @@
-Hello bhai 
+In India, thousands of students and job seekers fall victim to fake job offers every year. Scammers often demand registration fees, training fees, or security deposits in the name of job placement. Many users cannot easily verify whether a job offer is genuine or fraudulent.
+
+The aim of this project is to develop a web-based system that helps users verify job offers by analyzing multiple factors such as email authenticity, website credibility, scam keywords, and risk scoring. The system provides a scam probability score along with reasons so that users can make safer decisions before applying or paying money.
